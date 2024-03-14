@@ -6,6 +6,10 @@
 ## Steps:
 1. Field to put my JD
 2. Upload PDF
-3. PDF ----> Image ----> processing ----> Google Gemini pro.
+3. PDF --[pdf2image]--> Image --[info]--> Processing(API) ----> Google Gemini pro. ----> Response
 4. Prompts Template [Multiple Prompts]
 
+
+## Modified version
+
+PDF --[Pypdf2]--> Text --[text]--> Processing(API) ----> Google Gemini pro. ----> Response
