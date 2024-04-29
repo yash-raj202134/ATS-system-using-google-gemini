@@ -77,4 +77,4 @@ This project is licensed under the Apache-2.0 License.
 
 ## Contact
 
-For any inquiries or support, please [contact us](mailto:example@example.com).
+For any inquiries or support, please [contact us](mailto:yashraj3376@gmail.com).
