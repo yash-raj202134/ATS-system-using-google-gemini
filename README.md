@@ -32,6 +32,7 @@ The ATS system is designed to help job seekers craft and optimize their resumes 
 - `python-dotenv`
 - `google-generativeai`
 
+![ATS system app](Screenshot.png)
 ## Installation
 
 1. **Clone the repository**:
