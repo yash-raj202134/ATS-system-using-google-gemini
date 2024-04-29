@@ -24,11 +24,13 @@ The ATS system is designed to help job seekers craft and optimize their resumes 
 ## Required Libraries
 
 - `pdf2image`
-- `Pypdf2`
+- `PyPDF2`
 - `NumPy`
-- `Matplotlib`
-- `pandas`
-- `requests`
+- `streamlit`
+- `python-dotenv`
+- `google-generativeai`
+- `python-dotenv`
+- `google-generativeai`
 
 ## Installation
 
